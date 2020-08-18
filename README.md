@@ -1,1 +1,1 @@
-### `> say "my name is kevin :)"`
+### `> echo "my name is kevin :)"`
